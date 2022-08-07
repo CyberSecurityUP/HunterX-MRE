@@ -1,0 +1,4 @@
+capstone==4.0.2
+elf==0.1.dev0
+pe==0.3.2
+pefile==2021.9.3
